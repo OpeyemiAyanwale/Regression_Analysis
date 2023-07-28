@@ -1,8 +1,8 @@
 
-#Project 3#
+#Project 3: Regression Analysis#
 
 getwd()
-setwd('C:/Users/opeye/Desktop/ICS_SS23/Project 3')
+
 
 library(readr)
 library(ggplot2)
